@@ -6,7 +6,7 @@ from datetime import datetime
 root =Tk()
 root.geometry("500x500")
 root.resizable(0,0) 
-root.title("Weather")
+root.title("WeatherWhiz")
 
 def time_format(utc):
     local_time = datetime.utcfromtimestamp(utc)
