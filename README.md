@@ -19,9 +19,12 @@ This application provides users with up-to-date weather information, including t
 
 - Users can enter the name of a city in the input field to retrieve the current weather conditions.
 - A "Check Weather" button initiates the weather data retrieval process, displaying key metrics.
+  
   <img src="https://github.com/user-attachments/assets/141089cc-4121-4ed3-a985-a58886aa4f71" width="350" />
+  
 - A Listbox showcases recently searched cities, allowing users to quickly access prior searches.
 - The "Refresh" button clears the input field and the displayed weather information for new queries.
+  
   <img src="https://github.com/user-attachments/assets/e48e981c-ff10-42ca-9417-016be9432ea9" width="350" />
 
 ## Related Points
